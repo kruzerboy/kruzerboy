@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there, I'm Balkrishna Vaishnav!<br><br>🎓 M.Tech in Computer Science |    full stack developer |    💻 Flutter & ML Enthusiast | ✍️ Bilingual Content Writer  <br>🚀 Passionate about building scalable apps, writing clean code, and sharing knowledge.<br><br><br><br>## 📱 Projects I'm Working On<br><br>  A social tracking app powered by an AI recommendation engine and location services.<br>
+# 👋 Hi there, I'm Balkrishna Vaishnav!<br><br>🎓 M.Tech in Computer Science |    full stack developer |    💻 Flutter & ML Enthusiast | ✍️ Bilingual Content Writer  <br>🚀 Passionate about building scalable apps, writing clean code, and sharing knowledge.<br><br><br><br>## 📱 Projects I'm Working On<br><br>  goal manager app  with ai assisted goal manager .<br>
 
 
 ## 🌐 Socials:
